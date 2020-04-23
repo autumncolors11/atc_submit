@@ -52,3 +52,4 @@ def lcs(str1, str2):
             i -= 1
             j -= 1
     return res
+print(lcs(s,t))

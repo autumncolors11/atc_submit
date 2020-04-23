@@ -37,3 +37,4 @@ if list(route.keys()).count((h,w)) == 1:
     vv = h*w - max(list(route.values())) - cnt -1
     print(vv)
 else:
+    print(-1)

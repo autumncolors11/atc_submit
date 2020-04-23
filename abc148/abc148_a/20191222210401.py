@@ -7,3 +7,4 @@ l.remove(b)
 
 print(l[0])
 
+

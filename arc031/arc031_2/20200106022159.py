@@ -38,3 +38,4 @@ for p in range(h):
                 print("YES")
                 exit()
             a[p][q]="x"
+print("NO")

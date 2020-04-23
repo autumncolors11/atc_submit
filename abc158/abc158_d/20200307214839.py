@@ -59,3 +59,4 @@ if chk==0:
     print("".join(list(arr)))
 else:
     print("".join(reversed(list(arr))))
+

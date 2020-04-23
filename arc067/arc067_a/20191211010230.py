@@ -38,3 +38,4 @@ for i in range(2,1001):
         ans % 1000000007
 
 print(ans % 1000000007)
+

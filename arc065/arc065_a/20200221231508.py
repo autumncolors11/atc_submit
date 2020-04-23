@@ -54,3 +54,4 @@ while cnt &lt;lens:
         exit()
     else:
         cnt=cnt_chk
+print("YES")

@@ -42,3 +42,4 @@ for i in range(n-1):
 
 for i in range(q):
     x,y=mii()
+    print(dp[y-1]-dp[x-1])

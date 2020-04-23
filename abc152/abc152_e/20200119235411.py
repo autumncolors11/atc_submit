@@ -34,3 +34,4 @@ for i in range(n):
     ans+=(b//arr[i])
 
 print(ans%MOD)
+

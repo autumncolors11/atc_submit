@@ -36,3 +36,4 @@ for i in range(1, n-1):
         if 0&lt;= j-a[i] &lt;=20:
             ex[j-a[i]] +=dp[j]
     dp = ex
+print(dp[a[-1]])

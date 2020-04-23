@@ -35,3 +35,4 @@ def bb(X, n):
         return bb(int(X/n), n)+str(X%n)
     return str(X%n)
 
+print(len(str(bb(n,k))))

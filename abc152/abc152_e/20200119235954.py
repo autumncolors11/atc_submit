@@ -33,3 +33,4 @@ ans=0
 for i in range(n):
     ans+= b*pow(arr[i],MOD-2,MOD)
 
+print(ans%MOD)

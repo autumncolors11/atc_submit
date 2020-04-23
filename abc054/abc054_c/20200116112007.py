@@ -39,3 +39,4 @@ for i in route:
         
         ans+=1
 
+print(ans)

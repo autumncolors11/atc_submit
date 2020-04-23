@@ -40,3 +40,4 @@ for i in range(l,r):
         if ans ==0:
             print(0)
             exit()
+print(ans)

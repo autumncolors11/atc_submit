@@ -34,3 +34,4 @@ u=ss()
 if u==t:
     print(str(a)+" "+str(b-1))
 elif u==s:
+    print(str(a-1)+" "+str(b))

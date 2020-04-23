@@ -11,3 +11,4 @@ arr = list(map(int,input().split()))
 
 arr1 = [(i-x if i-x&gt;=0 else x-i) for i in arr]
 
+print(gcd(*arr1))

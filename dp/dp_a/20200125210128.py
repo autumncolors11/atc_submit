@@ -36,3 +36,4 @@ while chk:
     if cnt==n-1:
         chk=False
     cnt+=1
+print(dp[-1])

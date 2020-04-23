@@ -19,3 +19,4 @@ for i in range(num):
     else:
         a[i] -=b[i]
         count += b[i]
+print(count)

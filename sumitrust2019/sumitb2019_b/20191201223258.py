@@ -11,3 +11,4 @@ num = int(input())
 for i in range(1,50001):
     ans.append(int(i*1.08))
  
+print(my_index(ans,num,":("))

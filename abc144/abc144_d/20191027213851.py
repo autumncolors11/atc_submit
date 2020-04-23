@@ -10,3 +10,4 @@ elif x &lt; a*a*b/2:
     
 else:
     print(90-math.degrees(math.atan(a**3 / (2*(a*a*b-x)))))
+

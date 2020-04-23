@@ -6,3 +6,4 @@ for i in range(n-2):
     if s[i:i+3] ==['A', 'B', 'C']:
         
         cnt+=1
+print(cnt)

@@ -51,3 +51,4 @@ for i in range(I+1):
                 tmp += (i/n)*dp[i-1][j+1][k]
             dp[i][j][k] += (n/(i+j+k))*(1 + tmp)
     
+print(dp[I][J][K])

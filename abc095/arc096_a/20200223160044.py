@@ -37,3 +37,4 @@ for i in range(10**5 +1):
     ans = min(i*2*c + max(x-i,0)*a + max(y-i,0)*b,ans)
 
 
+print(ans)

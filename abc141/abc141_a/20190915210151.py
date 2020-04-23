@@ -5,3 +5,4 @@ if S == "Sunny":
 elif S=="Cloudy":
     print("Rainy")
 else:
+    print("Sunny")

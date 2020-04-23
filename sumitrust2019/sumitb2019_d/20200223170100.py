@@ -13,3 +13,4 @@ for i in range(1000):
         elif mode == 'c' and j == c:
             ans += 1
             break
+print(ans)

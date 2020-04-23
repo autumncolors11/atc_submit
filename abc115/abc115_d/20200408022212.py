@@ -43,3 +43,4 @@ def dfs(n,x):
         return p[n-1]+1
     else:
         return p[n-1]+1+dfs(n-1,x-2-a[n-1])
+print(dfs(n,x))

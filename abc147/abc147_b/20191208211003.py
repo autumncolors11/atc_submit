@@ -22,3 +22,4 @@ else:
         if a1[i]  != a2[i]:
             cnt +=1
 
+print(cnt)

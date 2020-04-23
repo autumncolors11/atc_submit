@@ -39,3 +39,4 @@ for c in product([0,1],repeat=d):
     else:
         pass
 #print(2,num,score,ind)
+print(ans)

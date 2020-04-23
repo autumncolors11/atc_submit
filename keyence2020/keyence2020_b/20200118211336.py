@@ -25,3 +25,4 @@ for a,b,c,d in arr[1:]:
         fin = d
 
 print(n-ans)
+

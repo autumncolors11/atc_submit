@@ -14,3 +14,4 @@ for i in p:
     dp=temp  
 
 print(dp.count(1))
+

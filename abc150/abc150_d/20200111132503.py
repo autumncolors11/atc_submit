@@ -16,3 +16,4 @@ for i in a:
         print(0)
         exit()
 
+print(math.ceil((m//lcm1)/2))

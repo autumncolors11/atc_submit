@@ -25,3 +25,4 @@ print(str(abs((xb-xa)*(yc-ya)-(xc-xa)*(yb-ya))/2)+"\n")
 
 
 
+

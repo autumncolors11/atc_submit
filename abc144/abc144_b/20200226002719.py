@@ -35,3 +35,4 @@ for i in range(1,10):
         if i*j==n:
             print("Yes")
             exit()
+print("No")

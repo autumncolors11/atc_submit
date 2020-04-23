@@ -41,3 +41,4 @@ for i in range(-100,101):
     b=n*(i**2)-2*sumarr*i+sum2arr
     ans=min(b,ans)
 print(ans)
+

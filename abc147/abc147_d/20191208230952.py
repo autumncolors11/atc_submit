@@ -35,3 +35,4 @@ n = int(input())
 arr = list(map(int,input().split()))
 arr.sort()
 sum = sumXOR(arr, n); 
+print (sum) 

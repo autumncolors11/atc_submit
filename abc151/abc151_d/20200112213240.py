@@ -32,3 +32,4 @@ for gg in range(1,h+1):
             if ll &gt; ans:
                 ans = ll
 
+print(ans)

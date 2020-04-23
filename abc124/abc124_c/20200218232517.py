@@ -44,3 +44,4 @@ for i in range(lens):
             cnt_odd+=1
         else:
             cnt_even+=1
+print(min(lens-cnt_even,lens-cnt_odd))

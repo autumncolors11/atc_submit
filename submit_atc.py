@@ -36,7 +36,7 @@ for kk in range(len(submitjson)):
             soup=BeautifulSoup(html,"html.parser")
             pre = str(soup.find("pre",id="submission-code")).splitlines()
             pre[0]=pre[0].replace('<pre class="prettyprint linenums" id="submission-code">','')
-            pre=pre[:-1]
+            pre[-1]=pre[-1].replace("</pre>","")
             subtime = str(soup.find("time",class_='fixtime fixtime-second')).replace('<time class="fixtime fixtime-second">',"").replace('</time>',"").replace("-","").replace(":","").replace(" ","")[:-5]
             os.makedirs(sconid+"/"+sproid,exist_ok=True)
 

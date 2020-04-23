@@ -22,3 +22,4 @@ for i in range(n):
            
             p+=1
 
+print(len(ans))

@@ -37,3 +37,4 @@ if int("".join(ns[1:])) == int("".join([str(9)]*(len(ns)-1))):
     print(int(ns[0])+9*(len(ns)-1))
 else:
     print(int(ns[0])+9*(len(ns)-1)-1)
+

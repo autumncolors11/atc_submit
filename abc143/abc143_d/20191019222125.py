@@ -14,3 +14,4 @@ for a in range(n-2):
         if k&gt;j:
             count += k-j-1
         
+print(count)

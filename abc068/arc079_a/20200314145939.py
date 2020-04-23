@@ -41,3 +41,4 @@ for i in arr[0]:
         print("POSSIBLE")
 
         exit()
+print("IMPOSSIBLE")

@@ -56,3 +56,4 @@ for i in product([0,1], repeat=r):
 
     ans=max(ans,tmp)
 
+print(ans)

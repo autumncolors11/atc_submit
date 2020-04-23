@@ -34,3 +34,4 @@ b=list(set(arr))
 if len(arr)==len(b):
     print("YES")
 else:
+    print("NO")

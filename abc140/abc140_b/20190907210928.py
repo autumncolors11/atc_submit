@@ -12,3 +12,4 @@ for i in range(num):
     if i &gt; 0 and a[i-1] + 1 == a[i]:
         count += c[a[i]-2]
 
+print(count)

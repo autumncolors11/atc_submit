@@ -32,3 +32,4 @@ cnt=0
 for i in range(n):
     if arr1[i] == True:
         cnt +=1   
+print(cnt)

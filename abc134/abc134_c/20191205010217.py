@@ -15,3 +15,4 @@ for i in range(num):
     if arr[i] != arr00:
         print(arr00)
     else:
+        print(arr01)

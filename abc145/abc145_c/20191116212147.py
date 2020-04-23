@@ -20,3 +20,4 @@ for i in range(len(ptr)):
 print(dis/len(ptr))
 
 
+    

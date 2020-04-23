@@ -11,3 +11,4 @@ for j in range(n-k):
     else:
         arr.append(str(s+1))
 #print(arr)
+print(" ".join(arr))

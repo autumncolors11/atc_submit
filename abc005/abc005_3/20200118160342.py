@@ -22,3 +22,4 @@ while ap &lt;= n-1 and bp &lt;=m-1:
 if ans ==m:
     print("yes")
 else:
+    print("no")

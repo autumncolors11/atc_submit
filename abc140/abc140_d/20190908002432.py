@@ -11,3 +11,4 @@ ans +=k*2
 if ans&gt;n-1:
     ans = n-1
 
+print(ans)

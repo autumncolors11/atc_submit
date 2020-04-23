@@ -38,3 +38,4 @@ for i in range(min(a,b),0,-1):
             print(i)
             exit()
 
+

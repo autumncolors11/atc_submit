@@ -10,3 +10,4 @@ b = arr.count(a)
 if b &gt; 0:
     print("Yes")
 else:
+    print("No")

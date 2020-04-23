@@ -14,3 +14,4 @@ ans = 0
 for i in range(N):
     ans += a * pow(A[i], mod-2, mod)
  
+print(ans % mod)

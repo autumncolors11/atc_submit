@@ -12,3 +12,4 @@ if a0 == a1:
 
 else:
     print(a0-a1)
+

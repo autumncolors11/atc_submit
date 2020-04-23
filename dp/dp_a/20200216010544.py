@@ -36,3 +36,4 @@ for i in range(2,n):
     b[i]= min(b[i-1]+abs(arr[i]-arr[i-1]),b[i-2]+abs(arr[i]-arr[i-2]))
 #print(b)
 print(b[-1])
+

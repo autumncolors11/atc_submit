@@ -50,3 +50,4 @@ if ans1==2 and ans2==2:
 else:
     print("NO")
 
+

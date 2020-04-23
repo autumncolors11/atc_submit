@@ -31,3 +31,4 @@ for i in arrk:
         ans+=min(abs(i-arrd[a-1]),abs(i-arrd[a]))
 
 print(ans)
+

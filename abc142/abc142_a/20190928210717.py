@@ -9,3 +9,4 @@ for i in range(1,n+1):
     odd +=1
 
      
+print(odd/n)

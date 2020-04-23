@@ -39,3 +39,4 @@ def gcd_list(numbers):
 n=ii()
 arr=limii()
 print(gcd_list(arr))
+

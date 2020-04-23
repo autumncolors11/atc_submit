@@ -20,3 +20,4 @@ for num in range(1,n+1):
             if wi &gt;= arr[num-1][0]:
                 mat[num][kn][wi] = max(mat[num-1][kn-1][wi-arr[num-1][0]]+arr[num-1][1],mat[num][kn][wi])
 
+print(mat[-1][-1][-1])

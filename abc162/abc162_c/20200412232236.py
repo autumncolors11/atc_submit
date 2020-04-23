@@ -44,3 +44,4 @@ for i in range(1,n+1):
             else:
                 temp=6
             ans+=gcd(gcd(i,j),k)*temp
+print(ans)

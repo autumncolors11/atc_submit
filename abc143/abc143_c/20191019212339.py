@@ -9,3 +9,4 @@ for i in range(n-1):
 
 
 c = len(arr)
+print(c)

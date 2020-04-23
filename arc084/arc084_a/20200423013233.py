@@ -45,3 +45,4 @@ for i in range(n):
         ans+=temp1*temp2
 print(ans)
 
+

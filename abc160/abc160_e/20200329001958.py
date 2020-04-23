@@ -55,3 +55,4 @@ q.append(qq)
 print(sum(list(p))+sum(list(q)))
         
         
+

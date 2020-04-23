@@ -31,3 +31,4 @@ for i in range(snum):
 if chk==True:
     print("".join(reversed(s)))
 else:
+    print("UNRESTORABLE")

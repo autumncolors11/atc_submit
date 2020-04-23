@@ -31,3 +31,4 @@ while n:
                 a[di][dj]="#"
                 n2.append((di,dj))
     n=n2
+print(cnt)

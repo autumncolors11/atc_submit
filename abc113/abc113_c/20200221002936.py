@@ -50,3 +50,4 @@ for i in range(m):
 
 ans.sort(key=lambda x:x[1])
 for i in range(m):
+    print(ans[i][0])

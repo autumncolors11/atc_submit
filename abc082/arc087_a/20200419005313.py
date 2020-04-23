@@ -39,3 +39,4 @@ for i,j in mat.items():
         ans+=j-i
     else:
         ans+=j
+print(ans) 

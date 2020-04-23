@@ -43,3 +43,4 @@ bd = b//d
 cd = b //((c*d)//gcd(c,d)) - (a-1) //((c*d)//gcd(c,d))
 
 print(num - (bc+bd-ac-ad)+cd)
+

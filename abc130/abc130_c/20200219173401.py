@@ -36,3 +36,4 @@ ans1=0
 if x*2==w and y*2==h:
     ans1=1
 print(ans,ans1)
+

@@ -16,3 +16,4 @@ for i in range(m):
             chk[p]=-1
             clear+=1
 
+print(str(clear)+" "+str(ans))

@@ -34,3 +34,4 @@ def dfs(pos):
     if len(list(pos))==n:print(pos)
     else:
         for i in ["a","b","c"]:dfs(pos+i)
+dfs(pos)

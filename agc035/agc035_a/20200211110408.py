@@ -40,3 +40,4 @@ a1=arr.count(arr[-1])
 if (len(list(set(arr)))==1 and list(set(arr))[0]==0) or chk==0 or (arr[0]==0 and a0==n//3 and a1==2*n//3):
     print("Yes")
 else:
+    print("No")

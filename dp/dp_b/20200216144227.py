@@ -42,3 +42,4 @@ for i in range(1,n):
     b[i]= ans
 
 print(b[-1])
+

@@ -34,3 +34,4 @@ n,r=mii()
 if n&gt;=10:
     print(r)
 else:
+    print(r+100*(10-n))

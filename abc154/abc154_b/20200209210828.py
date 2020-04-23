@@ -30,3 +30,4 @@ def llstr(n: int): return [limss() for _ in range(n)]
 s=len(list(input()))
 
 print("".join(["x"]*s))
+

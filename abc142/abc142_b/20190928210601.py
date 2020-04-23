@@ -8,3 +8,4 @@ for i in arr:
         count +=1
         
 print(count)
+    

@@ -39,3 +39,4 @@ def lcm(numbers):
 
 print(lcm(t))
 
+

@@ -47,3 +47,4 @@ if b-a&gt;=0:cnt=min(cnt,b-a+1)
 #1-1
 a,b=-x,-y
 if b-a&gt;=0:cnt=min(cnt,b-a+2)
+print(cnt)

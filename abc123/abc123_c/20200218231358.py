@@ -35,3 +35,4 @@ num=min(arr)
 if n &lt;=num:
     print(5)
 else:
+    print(4+ceil(n/num))

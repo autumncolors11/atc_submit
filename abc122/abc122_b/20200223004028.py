@@ -40,3 +40,4 @@ for i in range(len(s)):
                 cnt+=1
         if cnt==len(s[i:j]):
             ans=max(ans,cnt)
+print(ans)

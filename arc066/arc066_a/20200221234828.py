@@ -58,3 +58,4 @@ else:
     if (n+1)//2==cnt:
         print((2**(cnt-1))%mod)
     else:
+        print(0)

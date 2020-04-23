@@ -40,3 +40,4 @@ else:
     ans = (n//2)*ll2
 
 print(ans)
+

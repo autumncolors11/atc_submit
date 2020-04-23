@@ -32,3 +32,4 @@ n,a,b=mii()
 if a%2 == b%2:
     print("Alice")
 else:
+    print("Borys")

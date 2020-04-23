@@ -36,3 +36,4 @@ for i in range(1,int(n**0.5)+1):
         b=n//i
         tmp=max(len(str(i)),len(str(b)))
         ans=min(tmp,ans)
+print(ans)

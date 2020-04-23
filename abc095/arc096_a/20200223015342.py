@@ -74,3 +74,4 @@ if x&lt;=y:
     tmp=min(ans,tmp)
 
 
+print(tmp)

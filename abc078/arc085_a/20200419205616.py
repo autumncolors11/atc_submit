@@ -32,3 +32,4 @@ def llstr(n: int): return [limss() for _ in range(n)]
 n,m=mii()
 
 print((m*1900+(n-m)*100)*(2**m))
+

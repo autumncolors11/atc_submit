@@ -30,3 +30,4 @@ if k &gt;= len(arr):
     exit()
 arr.sort(reverse=True)
 
+print(sum(arr[k:]))

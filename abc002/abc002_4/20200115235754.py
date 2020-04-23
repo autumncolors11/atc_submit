@@ -27,3 +27,4 @@ for i in range(2, n + 1):
         if hantei:
             ans = len(k)
 print(ans)
+

@@ -42,3 +42,4 @@ a,b,x=mii()
 
 print(b//x - (a-1)//x)
 
+

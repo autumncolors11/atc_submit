@@ -52,3 +52,4 @@ for i in permutations(range(1,n)):
 
 print(ans)
 
+

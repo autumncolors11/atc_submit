@@ -41,3 +41,4 @@ for i in range(n):
     mat[arr[i]+1]+=1
     mat[arr[i]+2]+=1
 print(max(mat))
+

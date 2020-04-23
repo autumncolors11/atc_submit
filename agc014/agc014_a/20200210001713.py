@@ -46,3 +46,4 @@ while chk:
     else:
         chk=False
 
+print(cnt)

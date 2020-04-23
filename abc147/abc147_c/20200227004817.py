@@ -65,3 +65,4 @@ for i in product([0,1], repeat=n):
         ans=max(ans,sum(arr))
     #ans=max(cnt,ans)
 print(ans)
+

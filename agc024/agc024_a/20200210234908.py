@@ -34,3 +34,4 @@ p=b-a
 if k%2==1:
     print(p)
 else:
+    print(-1*p)

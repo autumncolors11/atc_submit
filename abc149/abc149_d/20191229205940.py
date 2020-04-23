@@ -18,3 +18,4 @@ for i in arr:
     elif i =="p":
         point+=s
 
+print(point)

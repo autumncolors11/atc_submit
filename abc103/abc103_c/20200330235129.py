@@ -45,3 +45,4 @@ ans=0
 for i in range(n):
     ans+=p%arr[i]
 print(ans)
+

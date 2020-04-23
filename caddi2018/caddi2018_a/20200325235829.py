@@ -56,3 +56,4 @@ for key ,val in m.items():
         ans*=key**(val//n)
 
 print(ans)
+

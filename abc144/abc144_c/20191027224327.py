@@ -16,3 +16,4 @@ def md(n):
 ab = [[i,a//i] for i in md(a)]
 abc = [sum(ab[i]) for i in range(len(ab))]
 
+print(min(abc)-2)

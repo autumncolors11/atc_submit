@@ -58,3 +58,4 @@ def nCk(n, k, mod=10 ** 9 + 7):
  
 
 ans=(p_f(2,n,mod) -1)%mod -nCk(n,a,mod)%mod - nCk(n,b,mod)%mod
+print(ans%mod) 

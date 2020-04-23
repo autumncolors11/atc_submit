@@ -29,3 +29,4 @@ while h &gt;0:
     h -=a
     cnt+=1
     
+print(cnt)

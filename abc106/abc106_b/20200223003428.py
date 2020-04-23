@@ -44,3 +44,4 @@ for i in range(1,n+1):
     a=mdiv(i)
     if i%2==1 and len(a)==8:
         ans+=1
+print(ans)

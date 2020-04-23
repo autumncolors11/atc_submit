@@ -9,3 +9,4 @@ for i in range(n):
     else:
         ans =min(p[i],ans)
         
+print(cnt)

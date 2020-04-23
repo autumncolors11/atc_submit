@@ -40,3 +40,4 @@ def cmb(n,r):
     under = reduce(mul, range(1,r + 1))
     return over // under
 
+print(n-k+1)

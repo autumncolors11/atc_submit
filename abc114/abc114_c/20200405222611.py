@@ -48,3 +48,4 @@ for i in range(3,len(str(n))+1):
     pos=[]
     p=i
     dfs(pos,p)
+print(len(cnt))

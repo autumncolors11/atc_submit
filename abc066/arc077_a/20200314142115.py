@@ -44,3 +44,4 @@ if n%2==0:
     print(" ".join(list(b)))
 else:
     print(" ".join(list(reversed(list(b)))))
+

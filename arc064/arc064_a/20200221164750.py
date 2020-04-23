@@ -41,3 +41,4 @@ for i in range(n-1):
     if arr[i]+arr[i+1]&gt;x:
         cnt+=arr[i+1]+arr[i]-x
         arr[i+1]=x-arr[i]
+print(cnt)

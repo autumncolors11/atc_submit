@@ -43,3 +43,4 @@ for i in range(n-k+1):
     chk=max(chk,s[i+k]-s[i])
 
 print(chk)
+

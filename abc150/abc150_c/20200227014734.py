@@ -49,3 +49,4 @@ for i,j in enumerate(range(factorial(n))):
     elif "".join(q)=="".join(list(map(str,arr[i]))):
         qans=j
     
+print(abs(pans-qans))

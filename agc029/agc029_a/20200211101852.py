@@ -32,3 +32,4 @@ lens=len(s)
 
 wrr=[i for i ,x in enumerate(s) if x=="W"]
 lenwrr=len(wrr)
+print(sum(wrr)-(lenwrr*(lenwrr-1)//2))

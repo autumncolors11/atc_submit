@@ -5,3 +5,4 @@ if bwater + cwater &gt;= asize:
     print(cnokori)
 
 else:
+    print(0)

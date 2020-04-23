@@ -38,3 +38,4 @@ arr.sort()
 for i in range(n):
     ans=max(ans,arr[i+1]-arr[i])
 
+print(k-ans)

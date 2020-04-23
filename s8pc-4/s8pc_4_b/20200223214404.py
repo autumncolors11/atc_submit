@@ -54,3 +54,4 @@ for i in product([0,1], repeat=n):
         ans=min(tmp,ans)
 
 
+print(ans)

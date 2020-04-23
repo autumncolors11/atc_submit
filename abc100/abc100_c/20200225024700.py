@@ -38,3 +38,4 @@ for i in range(n):
     while arr[i]%2==0:
         ans+=1
         arr[i]/=2
+print(ans)

@@ -41,3 +41,4 @@ if len(ans)==0:
     print("-1 -1 -1")
 else:
     print(str(ans[0])+" "+str(ans[1])+" "+str(ans[2]))
+

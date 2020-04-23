@@ -10,3 +10,4 @@ while ans &lt; n:
     cnt+=1
     
 print(cnt)
+

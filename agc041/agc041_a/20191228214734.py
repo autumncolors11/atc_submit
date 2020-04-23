@@ -23,3 +23,4 @@ else:
         z=r+1+(b-(r+1)-1)//2
         y=s+1+(num-(a+(s+1)))//2
         print(min(y,z))
+

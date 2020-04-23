@@ -37,3 +37,4 @@ c = list(permutations(range(1,n+1), n))
 
 print(abs(c.index(p)-c.index(q)))
 
+

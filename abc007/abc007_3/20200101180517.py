@@ -23,3 +23,4 @@ while route.get((yg-1,xg-1),0)==0 and count != 10000:
                 route[np]=count
     n=n2
     count+=1
+print(max(list(route.values())))

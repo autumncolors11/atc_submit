@@ -16,3 +16,4 @@ for i in range(num):
 if count ==0:
     print("Yes")
 else:
+    print("No")

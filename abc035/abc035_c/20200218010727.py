@@ -48,3 +48,4 @@ for i in range(1, n+1):
 
 
 ans = "".join(list(map(str, cum[1:])))
+print(ans)

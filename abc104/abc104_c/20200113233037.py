@@ -29,3 +29,4 @@ for i in itertools.product((0,1),repeat=d):
         ans =min(ans,num)
 
 print(ans)
+    

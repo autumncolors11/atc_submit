@@ -8,3 +8,4 @@ for i in range(len(yohou)):
     else:
         pass
 
+print(count)

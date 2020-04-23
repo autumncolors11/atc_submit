@@ -51,3 +51,4 @@ for i in range(n):
         pep_cnt=1
         time=arri+k
     #print(bas_cnt,pep_cnt,time)
+print(bas_cnt)

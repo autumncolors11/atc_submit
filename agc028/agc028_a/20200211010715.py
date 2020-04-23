@@ -51,3 +51,4 @@ if s[0]==t[0]:
 
 else:
     print(-1)
+#print(cnt,y)

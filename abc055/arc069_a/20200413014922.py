@@ -36,3 +36,4 @@ c=m-n*2
 if c&gt;=0:
     print(n+c//4)
 else:
+    print(min(m//2,n))

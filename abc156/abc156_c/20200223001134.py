@@ -37,3 +37,4 @@ for i in range(100):
     for j in range(n):
         cnt+=(arr[j]-(i+1))**2
     ans=min(ans,cnt)
+print(ans)

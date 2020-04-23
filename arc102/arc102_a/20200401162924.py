@@ -42,3 +42,4 @@ else:
     if n%k&gt;=k/2:
         q+=1
     ans=p**3 + q**3
+print(ans)

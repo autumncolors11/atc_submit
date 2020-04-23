@@ -41,3 +41,4 @@ ans = 0
 for i in range(n//2 +1,n+1):
     ans += dp[n][i]
 print(ans)
+

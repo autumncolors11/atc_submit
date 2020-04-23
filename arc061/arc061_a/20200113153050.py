@@ -8,3 +8,4 @@ for op in product(["", "+"], repeat=len(s)-1):
     op.append("")
     #op=('', '+')の場合，1+""+2+"+"+5になる
     ans += eval(''.join( a + b for a, b in zip(s, op)))
+print(ans)

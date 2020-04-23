@@ -59,3 +59,4 @@ for i in range(n):
                 chk=False
         if chk==True:
             cnt+=1
+print(cnt)

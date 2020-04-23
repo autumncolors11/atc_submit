@@ -42,3 +42,4 @@ for i in range(len(ak)):
 ans.sort()
 for i in ans:
     print(i)
+

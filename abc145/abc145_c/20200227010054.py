@@ -39,3 +39,4 @@ for i in permutations(range(n)):
     for j in range(n-1):
         ans+=((arr[i[j]][0]-arr[i[j+1]][0])**2 + (arr[i[j]][1]-arr[i[j+1]][1])**2)**0.5
 
+print(ans/cnt)

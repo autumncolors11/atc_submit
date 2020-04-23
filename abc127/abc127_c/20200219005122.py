@@ -43,3 +43,4 @@ if ans&lt;=0:
     print(0)
 else:
     print(ans)
+    

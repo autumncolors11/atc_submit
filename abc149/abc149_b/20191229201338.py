@@ -10,3 +10,4 @@ else:
     a = a-k
     
 
+print(str(a)+" "+str(b))

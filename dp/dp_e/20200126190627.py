@@ -42,3 +42,4 @@ ans=[]
 for i in range(sum(val)+1):
     if dp[n][i]&lt;=w:
         ans.append(i)
+print(max(ans))

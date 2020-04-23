@@ -29,3 +29,4 @@ arr = limii()
 if sum(arr) &gt;= h:
     print("Yes")
 else:
+    print("No")

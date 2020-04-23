@@ -48,3 +48,4 @@ if ans&gt;n:
 
 for k in range(1,i+1):
     if k!=p:
+        print(k)

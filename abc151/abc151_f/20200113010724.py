@@ -107,3 +107,4 @@ def _cross_product(x0, y0, x1, y1, x2, y2):
 n = int(input())
 info = [list(map(int, input().split())) for i in range(n)]
 print(make_circle(info)[2])
+

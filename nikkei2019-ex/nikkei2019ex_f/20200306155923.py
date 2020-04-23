@@ -51,3 +51,4 @@ for i in range(1,n+1):
     if chk==0:
         print("".join(ans))
     else:
+        print(i)

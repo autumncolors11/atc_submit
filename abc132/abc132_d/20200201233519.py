@@ -53,3 +53,4 @@ for j in range( 2, N + 1 ):
 for i in range(1,k+1):
     ans = (cmb(re+1,i,mod)*cmb(bl-1,i-1,mod))%mod
 
+    print(ans)

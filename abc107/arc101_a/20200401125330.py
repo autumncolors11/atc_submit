@@ -34,3 +34,4 @@ arr=limii()
 ans=10**1000
 for i in range(n-k+1):
     ans=min(ans, abs(arr[i])+abs(arr[i]-arr[i+k-1]),abs(arr[i+k-1])+abs(arr[i]-arr[i+k-1]))
+print(ans)

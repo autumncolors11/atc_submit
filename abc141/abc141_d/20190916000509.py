@@ -10,3 +10,4 @@ for i in range(m):
 
     
 print(-1*sum(arr))
+       

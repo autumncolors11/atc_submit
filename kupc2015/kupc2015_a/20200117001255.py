@@ -16,3 +16,4 @@ for p in range(int(n)):
             i+=1
     
     print(ans)
+

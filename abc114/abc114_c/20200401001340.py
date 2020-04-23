@@ -43,3 +43,4 @@ while chk:
                 ans+=1
             else:
                 chk=False
+print(ans)

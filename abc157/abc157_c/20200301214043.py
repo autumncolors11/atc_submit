@@ -86,3 +86,4 @@ if ans[0]==0 and n!=1:
     ans[0]=1
 
 print("".join(list(map(str,ans))))
+

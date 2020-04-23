@@ -31,3 +31,4 @@ def llstr(n: int): return [limss() for _ in range(n)]
 
 n=ii()
 
+print(n*800-(n//15)*200)

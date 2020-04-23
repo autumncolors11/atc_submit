@@ -10,3 +10,4 @@ for op in product(["-", "+"], repeat=len(s)-1):
     if eval(''.join( a + b for a, b in zip(s, op))) ==7:
         print(''.join( a + b for a, b in zip(s, op))+"=7")
         exit()
+

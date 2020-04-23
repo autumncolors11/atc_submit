@@ -40,3 +40,4 @@ for i in range(m):
     ans = min(ans, arra[x-1]+arrb[y-1]-c)
 print(ans)
 
+

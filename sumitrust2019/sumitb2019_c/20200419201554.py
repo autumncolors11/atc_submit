@@ -38,3 +38,4 @@ if a*100&lt;= n &lt;=a*105:
 else:
     print(0)
 
+

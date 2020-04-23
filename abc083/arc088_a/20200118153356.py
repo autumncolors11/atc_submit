@@ -9,3 +9,4 @@ while p &lt;= y:
     p=2*p
 
 
+print(cnt)

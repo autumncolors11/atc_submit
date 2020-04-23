@@ -14,3 +14,4 @@ for i in range(len(arr)):
         print("Yes")
     else:
         print("No")
+    

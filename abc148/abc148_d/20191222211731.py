@@ -14,3 +14,4 @@ for i in range(n):
 if ans &lt;n:
     print(ans)
 else:
+    print("-1")

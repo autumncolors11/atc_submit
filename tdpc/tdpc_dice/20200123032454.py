@@ -37,3 +37,4 @@ for i in range(n):
                 mat[i+1][min(arr[0],e2+1)][min(arr[1],e3+1)][e5]+=mat[i][e2][e3][e5]/6
  
  
+print("{:.9g}".format(mat[-1][-1][-1][-1]))

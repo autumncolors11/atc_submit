@@ -45,3 +45,4 @@ if cnt==0:
 elif cnt&lt;=6:
     print(ans+1)
 else:
+    print(ans+2)

@@ -39,3 +39,4 @@ def mdiv(n):
 arr=mdiv(n)
 #print(arr)
 print(len(str(min(arr))))
+

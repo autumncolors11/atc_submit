@@ -35,3 +35,4 @@ if (c-a-b)**2&gt;4*a*b and c-a-b&gt;0:
     print("Yes")
 else:
     print("No")
+

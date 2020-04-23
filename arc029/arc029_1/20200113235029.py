@@ -19,3 +19,4 @@ for i in list(itertools.product((0,1),repeat=n)):
     
     ans = min(ans,max(p0,p1))
 
+print(ans)

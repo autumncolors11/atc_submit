@@ -46,3 +46,4 @@ if n==3:
 for i in range(3,n):
     dp[i]=(dp[i-1]+dp[i-2]+dp[i-3])%10007
 
+print(dp[-1]%10007)

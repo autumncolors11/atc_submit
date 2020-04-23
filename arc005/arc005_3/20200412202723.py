@@ -46,3 +46,4 @@ while n:
 if b[gy][gx] &lt;= 2:
     print("YES")
 else:
+    print("NO")

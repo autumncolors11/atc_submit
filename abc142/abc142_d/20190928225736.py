@@ -30,3 +30,4 @@ def div(n):
     return divisors
 
 arr = list(set(prime(a)) &amp; set(prime(b)))
+print(1+ len(arr))

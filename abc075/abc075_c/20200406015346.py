@@ -56,3 +56,4 @@ for i in range(m):
     if sum(seen)!=n:
         ans+=1
 
+print(ans)

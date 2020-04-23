@@ -53,3 +53,4 @@ for i in range( a+3):
 # 答えを出力
 ans = max(cum[1:])
 print(ans)
+

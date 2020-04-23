@@ -33,3 +33,4 @@ n,k=mii()
 
 a=n%k
 b=abs(a-k)
+print(min(a,b))

@@ -53,3 +53,4 @@ def nCk(n, k, mod=10 ** 9 + 7):
 n=(2*y-x)//3
 m=(2*x-y)//3
 
+print(nCk(n+m,n,mod))

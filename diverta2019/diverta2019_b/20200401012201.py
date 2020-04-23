@@ -44,3 +44,4 @@ for i in range(gg):
             ans+=1
 
 
+print(ans)

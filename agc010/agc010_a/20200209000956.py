@@ -40,3 +40,4 @@ if cnt%2==1:
 else:
     print("YES")
 
+

@@ -38,3 +38,4 @@ for i in range(len(n)):
     else:
         ans+=n[i]
 #print(n)
+print(ans)

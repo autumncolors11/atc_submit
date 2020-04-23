@@ -15,3 +15,4 @@ for i in range(num):
 if count == num:
     print("Yes")
 else:
+    print("No")

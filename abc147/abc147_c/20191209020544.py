@@ -31,3 +31,4 @@ for i in range(1&lt;&lt;n):
                     check=0
     if check:
         ans=max(ans,sum(c_list))
+print(ans)

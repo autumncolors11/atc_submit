@@ -46,3 +46,4 @@ for i in range(n):
     elif ncnt + arr[i][1]&gt;=m:
         mcnt+=(m-ncnt)*arr[i][0]
         ncnt=m
+print(mcnt)

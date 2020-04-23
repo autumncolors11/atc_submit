@@ -39,3 +39,4 @@ for i in range(1,n+1):
             dp[i][j] = max(dp[i-1][j-wei[i]]+val[i],dp[i-1][j])
 
 
+print(dp[-1][-1])
